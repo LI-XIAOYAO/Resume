@@ -1,0 +1,19 @@
+# Site settings
+name: L
+location: CD
+company: IBM
+position: Java开发工程师
+github: https://github.com/
+facebook: https://www.facebook.com/
+phone: 1580424XXXX
+email: xxxx@xxx.com
+
+baseurl: "/Resume-V1/V1"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+
+
